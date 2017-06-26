@@ -24,6 +24,6 @@
     "semantic-release": "^6.3.6"
   },
   "czConfig":{
-    "path":"node_modules/cz-conventional-changelog"
+    "path":"node_modules/cz-conventional-changelog/"
   }
 }
